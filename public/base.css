@@ -1,0 +1,12 @@
+html, body {
+  margin: 25px 0;
+}
+
+body {
+  color: #555555;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
